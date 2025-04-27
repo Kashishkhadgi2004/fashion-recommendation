@@ -5,3 +5,4 @@ numpy
 gunicorn
 dash-bootstrap-components
 pymongo
+beautifulsoup4
